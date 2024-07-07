@@ -1,5 +1,5 @@
 AWSTemplateFormatVersion: '2010-09-09'
-Description: 'CloudFormation for VPC'
+Description: 'CloudFormation for EC2 Deployment'
 
 Resources:
 # My VPC
