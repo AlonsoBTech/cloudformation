@@ -6,8 +6,8 @@ Resources:
     Type: 'AWS::RDS::DBInstance'
     Properties:
       DBInstanceIdentifier: 'MyNewRDS'
-      MasterUsername: 'admin'
-      MasterUserPassword: 'password'
+      MasterUsername: ''
+      MasterUserPassword: ''
       DBInstanceClass: 'db.t3.micro'
       Engine: 'mysql'
       EngineVersion: '8.0.35'
