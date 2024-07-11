@@ -145,7 +145,7 @@ Resources:
         - IpProtocol: tcp
           FromPort: 22
           ToPort: 22
-          CidrIp: 135.0.80.110/32
+          CidrIp: "PLACE YOUR IP HERE"
 
 # Application Server 1 EC2
   AppServer1:
